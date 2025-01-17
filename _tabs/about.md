@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+
 # Vivian Wijaya
 Hi, I'm Vivian Wijaya! I am an Informatics student specializing in 
 Artificial Intelligence at [Ciputra University](https://www.ciputramakassar.ac.id/). With a strong passion for technology and problem-solving, 
