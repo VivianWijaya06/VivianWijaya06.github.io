@@ -17,7 +17,7 @@ Let's connect and grow together in this exciting field!
 2024 - 2028
 ## [Rajawali Chatolic Senior High School](https://smarajawalimakassar.sch.id/school-sma/)
 2021-2024
-## [Rajawali Chatolic Junior High School](www.smprajawali.sch.id)
+## [Rajawali Chatolic Junior High School]
 2018-2021
 
 # Hobby
