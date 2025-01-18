@@ -47,12 +47,10 @@ Let's connect and grow together in this exciting field!
 ![Desktop View](Lomba.png){: w="200" h="300"} <br>
 
 # Skills
-Pemecahan Masalah<br>
-Adaptasi Perubahan<br>
-Manajemen Waktu<br>
-Berkomunikasi yang Baik<br>
-Percaya Diri<br>
-Disiplin<br>
+Solving Problem<br>
+Time managment<br>
+Self-confideng<br>
+Discipline<br>
 
 # Language Skill
 
