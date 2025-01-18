@@ -3,8 +3,11 @@ title: "Tic Tac Toe"
 date: 2024-10-31 00:00:00 +0800
 categories: [Tic Toe Toe]
 tags: [Game]
+image:
+    path: TicTacToe.jpeg
 ---
 # Tic Tac Toe Game
+```python
 print("TICTACTOE")
 print("=========")
 board = {1:"1",2:"2",3:"3",
@@ -56,3 +59,5 @@ while True:
     insert(player1, posisi, "Player 1")
     posisi = int(input("Player 2: "))
     insert(player2, posisi, "Player 2")
+```
+![Desktop View](tictactoe.png)
