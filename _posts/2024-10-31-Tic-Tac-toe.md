@@ -4,7 +4,8 @@ date: 2024-10-31 00:00:00 +0800
 categories: [Tic Toe Toe]
 tags: [Game]
 image:
-    path: TicTacToe.jpeg
+    path: CoverCal.png
+    
 ---
 # Tic Tac Toe Game
 ```python

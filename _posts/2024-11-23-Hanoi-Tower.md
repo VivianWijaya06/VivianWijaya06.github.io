@@ -4,8 +4,7 @@ date: 2024-11-23 00:00:00 +0800
 categories: [Hanoi Tower]
 tags: [Game]
 image:
-    path: HanoiTower.jpeg
-
+    path: CoverTic.png
 ---
 # Hanoi Tower Game
 ```python

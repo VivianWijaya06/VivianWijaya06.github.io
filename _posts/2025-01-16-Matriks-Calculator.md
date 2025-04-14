@@ -4,8 +4,7 @@ date: 2025-01-16 00:00:00 +0800
 categories: [Matriks Calculator]
 tags: [Calculator]
 image:
-    path: MatriksCalculator.jpeg
-
+    path: CoverHanoi.png
 ---
 # Matriks Calculator
 
